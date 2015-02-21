@@ -1,0 +1,8 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+<soap:Header/>
+  <soap:Body>
+      <ns2:message xmlns:ns2="http://com.nishanth.jaxwsproject.targeNamespace/">
+         <helloMessage>WEBSERVICE</helloMessage>
+     </ns2:message>
+  </soap:Body>
+</soap:Envelope>
